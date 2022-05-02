@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 24 Apr 2022 14:36:00 at https://htmlbigstart.justthemevalley.com/Version2/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://htmlbigstart.justthemevalley.com/Version2/index.html -O1 "C:\Users\user\Desktop\for" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:37:06	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/shop_grid.htmls (from https://htmlbigstart.justthemevalley.com/Version2/index.html)
+14:37:06	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/product_detail.html (from https://htmlbigstart.justthemevalley.com/Version2/index.html)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/Popover requires tooltip.js (from https://htmlbigstart.justthemevalley.com/Version2/js/bootstrap.min.js)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/TweenLite.js (from https://htmlbigstart.justthemevalley.com/Version2/js/revolution-slider.js)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/Version/ (from https://htmlbigstart.justthemevalley.com/Version2/js/revolution-slider.js)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/TweenLite.js (from https://htmlbigstart.justthemevalley.com/Version2/js/revolution-slider.js)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/fonts/Simple-Line-Icons.woff?v=2.4.0 (from https://htmlbigstart.justthemevalley.com/Version2/css/simple-line-icons.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/grabbing.png (from https://htmlbigstart.justthemevalley.com/Version2/css/owl.carousel.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_glass_100_f6f6f6_1x400.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_glass_100_fdf5ce_1x400.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_glass_65_ffffff_1x400.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-icons_222222_256x240.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-icons_ffffff_256x240.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-icons_ef8c08_256x240.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-icons_228ef1_256x240.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-icons_ffd27a_256x240.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_diagonals-thick_20_666666_40x40.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/ui-bg_flat_10_000000_40x100.png (from https://htmlbigstart.justthemevalley.com/Version2/css/jquery-ui.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/css/images/icon-remove.png (from https://htmlbigstart.justthemevalley.com/Version2/css/shortcodes/shortcodes.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/images/coming_soon_bg.jpg (from https://htmlbigstart.justthemevalley.com/Version2/css/shortcodes/featured-box.css)
+14:37:36	Error: 	"Not Found" (404) at link https://htmlbigstart.justthemevalley.com/Version2/images/testimonials-bg.jpg (from https://htmlbigstart.justthemevalley.com/Version2/css/shortcodes/post.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 36 seconds : 195 links scanned, 169 files written (11461891 bytes overall) [7611724 bytes received at 79288 bytes/sec], 5657834 bytes transferred using HTTP compression in 109 files, ratio 27%, 65.0 requests per connection
+(25 errors, 0 warnings, 0 messages)
